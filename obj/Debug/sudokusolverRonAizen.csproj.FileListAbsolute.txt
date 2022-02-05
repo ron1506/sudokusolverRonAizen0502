@@ -1,0 +1,7 @@
+C:\ron omega\sudokusolverRonAizen\obj\Debug\sudokusolverRonAizen.csproj.AssemblyReference.cache
+C:\ron omega\sudokusolverRonAizen\obj\Debug\sudokusolverRonAizen.csproj.CoreCompileInputs.cache
+C:\ron omega\sudokusolverRonAizen\bin\Debug\sudokusolverRonAizen.exe.config
+C:\ron omega\sudokusolverRonAizen\bin\Debug\sudokusolverRonAizen.exe
+C:\ron omega\sudokusolverRonAizen\bin\Debug\sudokusolverRonAizen.pdb
+C:\ron omega\sudokusolverRonAizen\obj\Debug\sudokusolverRonAizen.exe
+C:\ron omega\sudokusolverRonAizen\obj\Debug\sudokusolverRonAizen.pdb
