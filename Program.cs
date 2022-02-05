@@ -179,7 +179,6 @@ namespace sudokusolverRonAizen
                         //**********************************************
                         stopwatch.Start();// starting the clock.
                         board = SolveBoard(board); // sending the board to the sudoku solver
-                        Console.WriteLine(board.ToString());
                         OutputOfSolution(board, mode, "THE SOLVED BOARD: ", path); //path=null, in case the mode the mode is not 'f'.
                         stopwatch.Stop();
                         Console.WriteLine("Elapsed Time is {0} ms", stopwatch.ElapsedMilliseconds);
